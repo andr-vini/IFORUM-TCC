@@ -1,0 +1,479 @@
+
+
+
+/** menu dropdown */
+@media (min-width: 992px) { 
+
+ 
+    .menu-escondido { 
+
+        display: none;
+    }
+
+
+    
+}
+@media (min-width: 500px) { 
+    .sala-dropdown { 
+        display: none;
+
+    }
+}
+@media (max-width: 500px) { 
+    .sala-responsiva { 
+        display: none;
+    }
+
+}
+/** turmas responsiva */
+@media (min-width: 700px){ 
+    .turmas-dropdown { 
+        display: none;
+    }
+}
+@media (max-width: 700px){ 
+    .turmas-responsivas { 
+        display: none;
+    }
+}
+/** logo iforum (menu-nav) */
+@media (max-width: 430px) { 
+
+    .iforum-responsivo { font-size: 35px; margin-left: 5px;}
+}
+
+@media (max-width: 375px) { 
+
+    .iforum-responsivo { font-size: 30px; margin-left: 5px;}
+}
+
+@media (max-width: 330px) { 
+
+    .iforum-responsivo { font-size: 28px; margin-left: 10px;}
+    .button-responsivo { 
+            margin-right: 13px;
+    }
+}
+
+/** login com responsividade */
+@media(min-width: 768px) { 
+
+    .login-responsivo { 
+        width: 50%;
+    }
+}
+@media(max-width:  768px) { 
+
+    .logo-responsiva { 
+        display: none;
+    }
+    .login-responsivo { 
+        height: 100vh;
+        width: 100%;
+    }
+}
+/** logo iforum (login) */
+@media (max-width: 403px ) { 
+
+    .responsive-iforum{ 
+
+        font-size: 20px;
+
+
+    }
+}
+
+/**(perguntas professor) responsivo */
+
+@media (max-width: 380px) { 
+
+    .like-responsivo { 
+        display: none;
+    }
+        
+    }
+  
+
+    .participante-responsivo { 
+        
+        max-width: 40ch;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    
+}
+
+    .usuario-responsivo { 
+        
+        max-width: 40ch;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    
+}
+@media (max-width: 380px) { 
+
+    
+
+    .participante-responsivo { 
+        
+        max-width: 10ch;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    
+}
+
+
+    .usuario-responsivo { 
+        
+            max-width: 10ch;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        
+    }
+  
+}
+@media (max-width: 1300px) { 
+
+    .iforum-responsivo-sa { 
+        font-size: 20px;
+    } 
+}
+@media (max-width: 1200px) { 
+
+        .iforum-responsivo-sa { 
+            font-size: 17px;
+        }
+}
+
+/** nome da sala responsivo **/
+.sala-responsiva { 
+        
+    max-width: 15ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+@media (max-width: 505px) { 
+
+  
+    .atribuir-responsivo { 
+        
+        display: none;
+    
+    }
+    
+    .participante-responsivo { 
+        
+        max-width: 10ch;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    
+}       
+    .usuario-responsivo { 
+        
+        max-width: 10ch;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    
+}
+    .ok-responsivo { 
+        font-size: 12px;
+        padding: 7px;
+    }
+    .nota-responsiva { 
+        width: 30px;
+    }
+    .usuario-responsivo { 
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 506px) { 
+
+    .nota-responsiva { width: 40px;}
+    .ok-responsivo { 
+        display: none;
+        
+    }
+}
+@media (min-width: 888px) { 
+        
+        .atribuir-responsivo { font-size: 10px;
+                    padding: 6px;
+        }
+
+}
+@media (max-width: 888px) { 
+
+    .atribuir-responsivo { 
+        
+        font-size: 10px;
+        padding: 6px;
+    }
+}
+
+
+@media (max-width: 874px) { 
+
+    .atribuir-responsivo { 
+        
+        font-size: 8px;
+        padding: 5px;
+    }
+}
+
+
+/** criar sala responsivo  **/
+
+
+    @media (max-width: 1129px) and (min-width: 764px) { 
+
+        .criar-sala-responsivo { 
+            width: 75%;
+        }
+    }
+    @media (min-width: 1129px ) {
+
+        .criar-sala-responsivo { 
+            width: 50%;
+        }
+    }
+    /** botões criar sala **/
+
+    @media (min-width: 624px) { 
+
+    .botoes-criar-sala { 
+
+        width: 25%;
+    }
+                         }
+
+    @media (max-width: 399px) { 
+       .tela-criacao {  font-size: 13px;}
+    }
+
+     /** loja responsiva { **/
+
+        /** pontuação do aluno { **/
+        @media(min-width:992px) { 
+            .pontos-responsivos{
+                display: none;
+            }
+        }
+        /** } **/
+
+        /** nav icone e medalhas {**/
+        @media(max-width:1200px) { 
+            
+            .ul-loja { width: 180px;}
+        
+        }
+        
+        @media(max-width:897px) { 
+            
+            .ul-loja { width: 150px;}
+            .botao-loja { font-size: 12px;}
+        }
+
+        @media(max-width:499px) { 
+            
+            .ul-loja { width: 120px;}
+            .botao-loja { font-size: 8px;}
+        }
+
+        @media(max-width:430px) { 
+            .ul-loja { width: 100px;}
+            .botao-loja { font-size: 7px;}
+           
+            .icone-loja { 
+                font-size: 20px;
+            }
+        }
+
+        @media(max-width: 907px) { 
+            .nav-loja { 
+                font-size: 12px;
+            }
+        }
+        /** } **/
+
+        
+
+
+        /** icones responsivos **/
+    @media(min-width:992px) { 
+        .pontos-responsivos{
+            display: none;
+        } 
+        .icone-loja { 
+            width: 150px;
+        }
+    } 
+
+        @media (max-width: 992px) { 
+        .icone-loja {
+            width:200px;
+        }
+    }
+
+
+    @media(max-width: 766px ) { 
+        .icone-loja { 
+            width: 250px;
+        }
+    }
+    
+    @media(max-width: 540px ) { 
+        .icone-loja { 
+            width: 170px;
+        }
+    }
+
+    @media(max-width: 400px ) { 
+        .icone-loja { 
+            width: 140px;
+        }
+    }
+    @media(max-width: 360px ) { 
+        .icone-loja { 
+            width: 110px;
+        }
+    }
+
+    @media(max-width: 340px ) { 
+        .icone-loja { 
+            width: 80px;
+    
+        }
+        .card-resp  { 
+            z-index: -1;
+            margin-left: 55px;
+        }
+    }
+    
+    /** */
+    
+       
+    @media(max-width: 408px ) { 
+        
+        .est-visible { 
+            display: none;
+        }
+    }
+        
+    @media(min-width: 408px ) { 
+        
+        .est-none { 
+            display: none;
+        }
+    }
+
+    @media(max-width: 440px ) { 
+        .est-resp{ 
+            font-size: 5px;
+        }
+    }
+    @media(max-width: 570px ) { 
+        .apelido-resp{ 
+            font-size: 10px;
+        }
+        .pontuacao-resp{ 
+            font-size: 10px;
+        }
+        .est-resp{ 
+            font-size: 8px;
+        }
+    }
+    @media(min-width: 570px ) { 
+        .est-resp{ 
+            font-size: 10px;
+        }
+    }
+
+    /** perguntas responsivas **/
+
+    @media (max-width: 820px) {  
+        #coment-responsivo { 
+            font-size: 13px;
+        } 
+        #coment-responsivo::-moz-placeholder {
+            font-size: 13px;
+        }
+    
+        }
+
+    @media (max-width: 480px) {  
+        #coment-responsivo { 
+            font-size: 10px;
+            } 
+            #coment-responsivo::-moz-placeholder {
+                font-size: 10px;
+            }
+        
+            }
+
+            @media (max-width: 360px) {  
+                #coment-responsivo { 
+                    font-size: 9px;
+                    } 
+                    #coment-responsivo::-moz-placeholder {
+                        font-size: 9px;
+                    }
+                
+                    }
+
+    /** CONVITE RESPONSIVO **/
+
+    @media (min-width:1050px) { 
+        .convite-responsivo { 
+            width: 50%;
+         
+        }
+    }
+    @media (max-width:1050px) { 
+        .convite-responsivo { 
+            width: 75%;
+        }
+    }
+    @media (max-width:750px) { 
+        .convite-responsivo { 
+            width: 99%;
+        }
+    }
+
+    @Media (max-width: 480px) { 
+        .btn-responsivo-convite { 
+            font-size: 8px;
+        }
+        .font-responsiva-convite { 
+            font-size: 12px;
+        }
+    }
+
+    @Media (max-width: 450px) { 
+        .enviar-visible{ 
+            display: none;
+        }
+    }
+    @Media (min-width: 450px) { 
+        .enviar-hidden{ 
+            display: none;
+        }
+    }
+
+    @Media (min-width: 480px) { 
+        .titulos-responsivo { 
+            font-size: 1.2rem; 
+        }
+    }
+    @Media (max-width: 480px) { 
+     .titulos-responsivo { 
+         font-size: 13.5px;
+     }
+    }
