@@ -4,3 +4,13 @@
 <h1 align="center">
     <a href="https://laravel.com/">🔗 Laravel</a>
 </h1>
+<p align="center">� Framework utilizado no projeto para desenvolver o projeto</p>
+<h1 align="center">
+    <a href="https://getbootstrap.com/">🔗 Bootstrap</a>
+</h1>
+<p align="center">� Framework utilizado no projeto para fazer sua estilização e aplicar sua responsividade</p>
+
+<h4 align="center"> 
+	✅ IFORUM  Concluido ✅
+</h4>
+<p align="center"> 
