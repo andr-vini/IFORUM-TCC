@@ -14,3 +14,14 @@
 	✅ IFORUM  Concluido ✅
 </h4>
 <p align="center"> O projeto já foi concluido. Esse projeto não será continuado pelo motivo de eu não ter mais vínculo com a instituição, sendo assim fico impossíbilitado de fazer alguns testes que precisaria de logins de professores </p>
+
+### Features
+
+- [x] Cadastro de usuário
+- [x] Cadastro de salas se aula
+- [x] Compra de itens
+- [x] Utilização de itens comprados
+- [x] Postagem de perguntas nas salas de aula
+- [x] Postagem de respostas nas perguntas feitas nas salas de aula
+- [x] Postagem de comentários nas respostas de usuários
+- [x] Moderação das salas de aula 
