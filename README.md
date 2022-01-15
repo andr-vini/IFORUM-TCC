@@ -13,4 +13,4 @@
 <h4 align="center"> 
 	✅ IFORUM  Concluido ✅
 </h4>
-<p align="center"> O projeto já foi concluido, porém em breve será desenvolvido um IFORUM com banco de dados próprio. Esse projeto não será continuado pelo motivo de eu não ter mais vínculo com a instituição, sendo assim fico impossíbilitado de fazer alguns testes que precisaria de logins de professores </p>
+<p align="center"> O projeto já foi concluido. Esse projeto não será continuado pelo motivo de eu não ter mais vínculo com a instituição, sendo assim fico impossíbilitado de fazer alguns testes que precisaria de logins de professores </p>
