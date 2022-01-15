@@ -25,3 +25,5 @@
 - [x] Postagem de respostas nas perguntas feitas nas salas de aula
 - [x] Postagem de comentários nas respostas de usuários
 - [x] Moderação das salas de aula 
+
+## Screenshots
