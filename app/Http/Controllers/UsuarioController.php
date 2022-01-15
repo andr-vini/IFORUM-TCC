@@ -23,7 +23,6 @@ class UsuarioController extends Controller
             $autenticar = $suap->autenticar($request->get('matricula'), $request->get('senha'));
             $resp = $suap->getMeusDados();
             session()->put('token', $autenticar['token']);
-            //session()->put('token', 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo5OTYzOSwidXNlcm5hbWUiOiIyMjc5NjYxIiwiZXhwIjoxNjQxNzM3NDg2LCJlbWFpbCI6ImZlcm5hbmRvLnZpcmdpbmlvQGlmcm4uZWR1LmJyIiwib3JpZ19pYXQiOjE2NDE2NTEwODZ9.kbcM8IUXtj88HmZP4HypodPPXrsFD-Trd9y2BQjVb90');
         } catch (ClientException $e) {
             return Redirect::back()->with('erro_msg', 'Credenciais inválidas');
         } catch (ServerException $e) {
@@ -36,7 +35,6 @@ class UsuarioController extends Controller
             $item_equipado = Item::find($item_usuario->idItem);
         }
         //verifica de o que o usuário é no sistema e se encarrega de realizar o login
-        //$resp['tipo_vinculo'] = 'Professor';
         if ($usuario != null) {
             session()->put('usuario', $usuario);
             if ($item_usuario != null) {
@@ -79,7 +77,6 @@ class UsuarioController extends Controller
         $usuario = new Usuario();
         $usuario->matricula = $dados_usuario['matricula'];
         $usuario->apelido = $request->get('apelido');
-        //$dados_usuario['tipo_vinculo'] = 'Servidor';
         if ($dados_usuario['tipo_vinculo'] == 'Aluno') {
             $aluno = new Aluno(['moderador' => 0]);
             $aluno->save();
