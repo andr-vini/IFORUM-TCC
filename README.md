@@ -4,13 +4,13 @@
 <h1 align="center">
     <a href="https://laravel.com/">🔗 Laravel</a>
 </h1>
-<p align="center">� Framework utilizado no projeto para desenvolver o projeto</p>
+<p align="center">Framework utilizado no projeto para desenvolver o projeto</p>
 <h1 align="center">
     <a href="https://getbootstrap.com/">🔗 Bootstrap</a>
 </h1>
-<p align="center">� Framework utilizado no projeto para fazer sua estilização e aplicar sua responsividade</p>
+<p align="center">Framework utilizado no projeto para fazer sua estilização e aplicar sua responsividade</p>
 
 <h4 align="center"> 
 	✅ IFORUM  Concluido ✅
 </h4>
-<p align="center"> 
+<p align="center"> O projeto já foi concluido, porém em breve será desenvolvido um IFORUM com banco de dados próprio. Esse projeto não será continuado pelo motivo de eu não ter mais vínculo com a instituição, sendo assim fico impossíbilitado de fazer alguns testes que precisaria de logins de professores </p>
