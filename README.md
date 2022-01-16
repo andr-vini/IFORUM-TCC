@@ -74,8 +74,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 # Acesse o MySQL no terminal/cmd
 $ mysql -u <seu usuario> -p
+```
 (Digite sua senha do MySQL)
 
+```bash
 # Crie um banco de dados para ser utilizado 
 mysql> create database "nome do banco de dados sem as aspas";
 
@@ -88,5 +90,20 @@ $ git clone https://github.com/andr-vini/IFORUM-TCC.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd IFORUM-TCC
 
+# Renomeie o arquivo .env.example para .env
+$ cp .env.example .env
+```
+Abra o arquivo e edite as seguintes variáveis:
+DB_DATABASE=(nome do banco de dados que você criou)
+DB_USERNAME=(seu usuário do mysql)
+DB_PASSWORD=(sua senha do mysql)
 
+```bash
+# Instale as dependencias com o composer
+$ php composer update
+# ou 
+$ php (path para o arquivo composer.phar) update
+
+# Execute as migrations para o banco de dados
+$ php artisan migrate
 ```
