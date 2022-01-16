@@ -103,4 +103,11 @@ $ php (path para o arquivo composer.phar) update
 
 # Execute as migrations para o banco de dados
 $ php artisan migrate --seed
+
+# Defina uma nova chave
+$ php artisan key:generate
+
+# Inicie o servidor
+$ php artisan serve
 ```
+A aplicação ficará disponivel no endereço: http://127.0.0.1:8000
