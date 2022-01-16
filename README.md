@@ -33,3 +33,9 @@
 </h1>
 <hr/>
 
+<p align="center"> Aqui é onde o usuário poderá equipar e visualizar os íncones que ele adquiriu na loja </p>
+<h1 align="center">
+  <img alt="Criação de Sala de Aula" title="#saladeaulacreate" src="./assets/equipando icones.jpg" />
+</h1>
+<hr/>
+
