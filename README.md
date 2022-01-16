@@ -111,3 +111,11 @@ $ php artisan key:generate
 $ php artisan serve
 ```
 A aplicação ficará disponivel no endereço: http://127.0.0.1:8000
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Laravel](https://laravel.com/)
+- [MySQL](https://www.mysql.com/)
+- [Bootstrap](https://getbootstrap.com/)
