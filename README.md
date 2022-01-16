@@ -90,7 +90,7 @@ $ cd IFORUM-TCC
 # Renomeie o arquivo .env.example para .env
 $ cp .env.example .env
 ```
-Abra o arquivo e edite as seguintes variáveis:  
+Abra o arquivo .env e edite as seguintes variáveis:  
 DB_DATABASE=(nome do banco de dados que você criou)  
 DB_USERNAME=(seu usuário do mysql)  
 DB_PASSWORD=(sua senha do mysql)
