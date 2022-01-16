@@ -32,12 +32,32 @@
   <img alt="Criação de Sala de Aula" title="#saladeaulacreate" src="./assets/criacao de sala de aula.jpg" />
 </h1>
 
-<p align="center"> Aqui é onde o usuário poderá equipar e visualizar os íncones que ele adquiriu na loja </p>
+<p align="center"> Aqui é onde o usuário poderá equipar e visualizar os ícones que ele adquiriu na loja </p>
 <h1 align="center">
   <img alt="Criação de Sala de Aula" title="#saladeaulacreate" src="./assets/equipando icones.jpg" />
 </h1>
 
-<p align="center"> Aqui é onde o usuário poderá equipar e visualizar os íncones que ele adquiriu na loja </p>
+<p align="center"> Aqui é onde o usuário poderá comprar os itens </p>
 <h1 align="center">
   <img alt="Criação de Sala de Aula" title="#saladeaulacreate" src="./assets/loja.jpg" />
+</h1>
+
+<p align="center"> Aqui é onde o professor poderá visualizar, atribuir, e remover participantes da sala de aula</p>
+<h1 align="center">
+  <img alt="Criação de Sala de Aula" title="#saladeaulacreate" src="./assets/participantes.jpg" />
+</h1>
+
+<p align="center"> Aqui é como fica a pergunta dos usuários que foram feitas, e é aqui também onde você pode escrever sua resposta</p>
+<h1 align="center">
+  <img alt="Criação de Sala de Aula" title="#saladeaulacreate" src="./assets/pergunta.png" />
+</h1>
+
+<p align="center"> Aqui é o ranking da aplicação, onde são rankeados os 10 com melhor pontuação</p>
+<h1 align="center">
+  <img alt="Criação de Sala de Aula" title="#saladeaulacreate" src="./assets/ranking.png" />
+</h1>
+
+<p align="center"> Aqui é como fica organizado as respostas</p>
+<h1 align="center">
+  <img alt="Criação de Sala de Aula" title="#saladeaulacreate" src="./assets/resposta.png" />
 </h1>
