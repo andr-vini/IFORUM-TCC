@@ -27,6 +27,9 @@
 - [x] Moderação das salas de aula 
 
 ## Screenshots
+<p align="center"> Aqui é onde o professor seleciona o diário de classe que consta no suap, para assim criar a sala de aula com os alunos </p>
 <h1 align="center">
   <img alt="Criação de Sala de Aula" title="#saladeaulacreate" src="./assets/criacao de sala de aula.jpg" />
 </h1>
+<hr/>
+
