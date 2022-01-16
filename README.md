@@ -27,3 +27,6 @@
 - [x] Moderação das salas de aula 
 
 ## Screenshots
+<h1 align="center">
+  <img alt="Criação de Sala de Aula" title="#saladeaulacreate" src="./assets/criacao de sala de aula.jpg" />
+</h1>
